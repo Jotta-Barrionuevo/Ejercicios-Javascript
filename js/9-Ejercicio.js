@@ -1,5 +1,7 @@
-const frase = prompt("Ingrese una frase")
+let frase = prompt("Ingrese una frase")
 
+console.log(frase.toLocaleLowerCase());
+frase = frase.toLocaleLowerCase();
 console.log(frase.length);
 
 console.log(frase.charAt(0));
