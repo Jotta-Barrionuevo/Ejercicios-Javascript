@@ -1,6 +1,6 @@
-# Ejercicio JavaScript
+# TP N° 1
 
-Este proyecto es una practica de JavaScript.
+Primer trabajo practico de JavaScript.
 ...
 
 ## Librerias / herramientas 
